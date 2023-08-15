@@ -38,7 +38,7 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ### 2. 🐈 CatPack
 #####  Adlister Project        
 
-![CatPack Screenshot]()
+![CatPack Screenshot](CatPack_Screenshot.png)
 
 - **Description**: A comprehensive platform tailored for feline aficionados. Users can browse, post, and manage ads for cat-related products, services, and sitters. Features include full CRUD capabilities for users and ads, a sophisticated search functionality based on ad titles, and a detailed view of ads with poster contact details. The user experience is elevated with a sleek navigation bar ensuring a seamless transition between pages.
 - **Tech Stack**: HTML, CSS, Java, MySQL
