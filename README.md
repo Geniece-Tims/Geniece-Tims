@@ -27,7 +27,7 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ### 1. 🎥🍿 FaveFlix 
 #####  Movie App Project
 
-![FaveFlix Screenshot]()
+![FaveFlix Screenshot](Screenshot 2023-08-14 at 11.44.39 PM.png)
 
 - **Description**: Designed and developed a web-based movie database. Utilized RESTful API calls to enable CRUD (create, read, update, delete) functionality for dynamically rendered elements, including the use of modals to allow users to delete, add, and edit movies.
 - **Tech Stack**: TMDb API, Pair Programming, jQuery, HTML, CSS, JavaScript
