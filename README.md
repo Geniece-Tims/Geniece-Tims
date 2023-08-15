@@ -1,8 +1,15 @@
 # Hello World! 🌎 I'm Geniece.🙋🏽‍♀️
 
-### 👩🏾‍💻 As an aspiring Software Developer, I've collaborated with diverse teams on various projects, diving deep into coding practices and refining workflows to optimize outcomes.
 
-![Alt text describing the GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+## 👩🏾‍💻 About Me: 
+As an aspiring Software Developer, I've collaborated with diverse teams on various projects, diving deep into coding practices and refining workflows to optimize outcomes.
+
+![Alt text describing the GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
+
+## ❓Why I Chose Software Development:<br>
+• Creativity: The digital realm offers boundless opportunities to innovate and design. From user interfaces to intricate algorithms, there's always room to create and reimagine.<br>
+• Problem Solving: Every piece of code presents its unique set of challenges. I thrive on the continuous cycle of understanding, breaking down, and solving these puzzles.<br>
+• Impact & Contribution: The code I write today has the potential to touch lives and transform industries tomorrow. The ripple effect of a software solution excites and motivates me daily.<br>
 
 ## 💯 Here's what motivates me:
   • Dedication: Every piece of code is a step towards mastering the art of programming.
@@ -17,9 +24,10 @@
 
 Here's a sneak peek of some projects that I'm particularly proud of. They represent my journey and growth as a developer.
 
-### 1. 🎥🍿 FaveFlix Movie App
+### 1. 🎥🍿 FaveFlix 
+#####  Movie App Project
 
-![ProjectName Screenshot](faveflix.jpeg)
+![ProjectName Screenshot]()
 
 - **Description**: Designed and developed a web-based movie database. Utilized RESTful API calls to enable CRUD (create, read, update, delete) functionality for dynamically rendered elements, including the use of modals to allow users to delete, add, and edit movies.
 - **Tech Stack**: TMDb API, Pair Programming, jQuery, HTML, CSS, JavaScript
@@ -27,20 +35,21 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 
 ---
 
-### 2. Another Project Name - *Another Tagline*
+### 2. 🐈 CatPack
+#####  Adlister Project        
 
-![AnotherProjectName Screenshot](path_to_another_screenshot_image)
+![ProjectName Screenshot]()
 
-- **Description**: Brief info about this project, its unique points, and its importance.
-- **Tech Stack**: Java, Spring Boot...
-- **[View Live](URL_HERE)** | **[View Code](GitHub_Repo_URL_HERE)**
+- **Description**: A comprehensive platform tailored for feline aficionados. Users can browse, post, and manage ads for cat-related products, services, and sitters. Features include full CRUD capabilities for users and ads, a sophisticated search functionality based on ad titles, and a detailed view of ads with poster contact details. The user experience is elevated with a sleek navigation bar ensuring a seamless transition between pages.
+- **Tech Stack**: HTML, CSS, Java, MySQL
+- **[View Live](URL_HERE)** | **[View Code](https://github.com/knowles-tims-williams-adlister/adlister)**
 
 ---
 
-*Feel free to dive deep into these projects and share any feedback or questions you might have!*
+👉🏽 *Feel free to dive deep into these projects and share any feedback or questions you might have!*
 
 
-### 🧰🛠️ Tools & Technologies I've Worked With:
+## 🧰🛠️ Tools & Technologies I've Worked With:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -54,7 +63,7 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🤝Let's Connect!
+## 🤝Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geniece.c.tims@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timsgenc/)
