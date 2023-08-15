@@ -27,7 +27,7 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ### 1. 🎥🍿 FaveFlix 
 #####  Movie App Project
 
-![ProjectName Screenshot]()
+![FaveFlix Screenshot]()
 
 - **Description**: Designed and developed a web-based movie database. Utilized RESTful API calls to enable CRUD (create, read, update, delete) functionality for dynamically rendered elements, including the use of modals to allow users to delete, add, and edit movies.
 - **Tech Stack**: TMDb API, Pair Programming, jQuery, HTML, CSS, JavaScript
@@ -38,7 +38,7 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ### 2. 🐈 CatPack
 #####  Adlister Project        
 
-![ProjectName Screenshot]()
+![CatPack Screenshot]()
 
 - **Description**: A comprehensive platform tailored for feline aficionados. Users can browse, post, and manage ads for cat-related products, services, and sitters. Features include full CRUD capabilities for users and ads, a sophisticated search functionality based on ad titles, and a detailed view of ads with poster contact details. The user experience is elevated with a sleek navigation bar ensuring a seamless transition between pages.
 - **Tech Stack**: HTML, CSS, Java, MySQL
