@@ -74,12 +74,13 @@ Here's a sneak peek of some projects that I'm particularly proud of. They repres
 ## 👩🏾‍🏫 Lessons Learned:
 Throughout my journey into software development, I've encountered various challenges, each teaching me invaluable lessons. Here are a few that stand out:
 <br>
-1. Iterative Development: Starting small and iterating is the key. It's easier to manage, test, and refine. It's not about how fast you start but how well you finish.<br>
-2. Code Comments Matter: I used to overlook commenting my code. Now, I realize that they are like breadcrumbs for anyone (including future me) who's trying to understand and potentially improve or debug the code.<br>
-3. The Power of Collaboration: No one has all the answers. Teaming up with others has helped me look at problems from different perspectives and come up with more rounded solutions.<br>
-4. Embracing Failure: Each failure is a stepping stone to success. Instead of getting discouraged, I've learned to analyze my mistakes, learn from them, and move forward with a better approach.<br>
-5. Continuous Learning: Technology evolves rapidly. The importance of staying updated and continuously learning cannot be emphasized enough. This not just enhances skills but also instills a sense of confidence.<br>
-6. I believe these lessons, among many others, shape not just how I code but also how I approach challenges and work in teams. If you have any similar experiences or lessons to share, I'd love to hear them!
+1. **Iterative Development**: Starting small and iterating is the key. It's easier to manage, test, and refine. It's not about how fast you start but how well you finish.<br>
+2. **Code Comments Matter**: I used to overlook commenting my code. Now, I realize that they are like breadcrumbs for anyone (including future me) who's trying to understand and potentially improve or debug the code.<br>
+3. **The Power of Collaboration**: No one has all the answers. Teaming up with others has helped me look at problems from different perspectives and come up with more rounded solutions.<br>
+4. **Embracing Failure**: Each failure is a stepping stone to success. Instead of getting discouraged, I've learned to analyze my mistakes, learn from them, and move forward with a better approach.<br>
+5. **Continuous Learning**: Technology evolves rapidly. The importance of staying updated and continuously learning cannot be emphasized enough. This not just enhances skills but also instills a sense of confidence.<br>
+
+*I believe these lessons, among many others, shape not just how I code but also how I approach challenges and work in teams. If you have any similar experiences or lessons to share, I'd love to hear them!*
 
 ## 📆 Upcoming Projects:
 * Graduation Capstone: Aug. 17th - Sep. 8th 
