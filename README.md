@@ -97,6 +97,3 @@ In my quest to constantly grow and evolve in the tech landscape, books have alwa
 *I'd love to hear from you! You can drop me an email on Gmail or connect with me on LinkedIn. Excited about the possibility of connecting!*
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geniece.c.tims@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timsgenc/)
-
-## 🚀 Signing Off
-As this **README** comes to a close, I want to send a big shoutout to everyone who's made my GitHub space a hub of collaboration and learning. To every visitor, contributor, and friend: your presence here counts. Here's to many more lines of code, solved bugs, and collaborative projects. 🎊**Cheers**!
